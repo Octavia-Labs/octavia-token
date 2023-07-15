@@ -1,4 +1,17 @@
-// SPDX-License-Identifier: MIT
+//           ▄▄
+//           ▀██▄    ██        ╔══
+//   ▄▄▄▄▄▄▄▄  ▀██▄  ██        ║
+//   ▀▀▀▀▀▀▀▀    ▀▀  ██           Octavia
+//      ▄▄           ██   ▄▄      by Octavia Laboratories
+//    ▄██▀              ▄██▀ 
+//  ▄██▀              ▄██▀        The Superhuman AI Assistant
+//  ▀▀  ▄▄            ▀▀          
+//      ██                        octavia.one
+//      ██   ▄▄   ████████        discord.gg/octavia
+//      ██   ▀██▄              ║
+//      ▀▀     ▀██▄            ╚══
+//               ▀▀
+
 pragma solidity ^0.8.9;
 
 import "./@openzeppelin/contracts/token/ERC20/ERC20.sol";
