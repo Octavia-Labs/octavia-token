@@ -18,7 +18,7 @@ The Solidity contract for the Octavia token is available in the [octavia-flatten
 
 ## License
 
-This repository is subject to the Business Source License. For more details, please refer to the [LICENSE.md](LICENSE.md) file.
+This repository is subject to the MIT License. For more details, please refer to the [LICENSE.md](LICENSE.md) file.
 
 Please note the portion of the contracts utilsiing the OpenZepplin Library can be obtained at [OpenZepplin](https://github.com/OpenZeppelin/openzeppelin-contracts/) under the MIT License.
 
