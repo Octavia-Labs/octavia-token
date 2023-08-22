@@ -14,7 +14,7 @@ The Octavia token contract has undergone a security audit conducted by Hacken. Y
 
 ## Solidity Contract
 
-The Solidity contract for the Octavia token is available in the [octavia-flattened.sol](octavia-flattened.sol) file. This contract implements the functionality of the Octavia token, including token issuance, transfers, and other related operations.
+The Solidity contract for the Octavia token is available in the [Octavia.sol](Octavia.sol) file. This contract implements the functionality of the Octavia token, including token issuance, transfers, and other related operations.
 
 ## License
 
