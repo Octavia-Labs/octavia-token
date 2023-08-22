@@ -4,7 +4,7 @@
 //           ▀██▄    ██        ╔══
 //   ▄▄▄▄▄▄▄▄  ▀██▄  ██        ║
 //   ▀▀▀▀▀▀▀▀    ▀▀  ██           Octavia
-//      ▄▄           ██   ▄▄      by Octavia Laboratories
+//      ▄▄           ██   ▄▄      by Octavia Labs
 //    ▄██▀              ▄██▀ 
 //  ▄██▀              ▄██▀        The Superhuman AI Assistant
 //  ▀▀  ▄▄            ▀▀          
@@ -16,9 +16,9 @@
 
 pragma solidity =0.8.9;
 
-import "./@openzeppelin/contracts/token/ERC20/ERC20.sol";
-import "./@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
-import "./@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol";
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol";
 
 contract Octavia is ERC20, ERC20Permit, ERC20Votes {
     constructor() ERC20("Octavia", "VIA") ERC20Permit("Octavia") {
