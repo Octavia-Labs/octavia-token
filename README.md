@@ -31,7 +31,7 @@ Octavia Labs is the team behind the Octavia AI assistant and the Octavia token. 
 If you have any questions or feedback regarding the Octavia token contract, please feel free to reach out to us through our official channels:
 
 - Website: [https://octavia.one](https://octavia.one)
-- Telegram: [https://t.me/octaviaone](https://t.me/octaviaone)
+- Telegram: [https://t.me/octaviaone](https://t.me/octaviaannouncements)
 - Discord: [https://discord.gg/octavia](https://discord.gg/octavia)
 - Twitter: [https://twitter.com/octaviatoken](https://twitter.com/octaviatoken)
 - Email: luke@octavia.one
